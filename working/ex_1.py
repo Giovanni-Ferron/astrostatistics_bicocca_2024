@@ -8,7 +8,7 @@ Created on Thu Mar  7 11:22:02 2024
 import numpy as np
 import matplotlib.pyplot as plt
 
-N_doors = 3
+N_doors = 100000
 win_count_s = 0
 win_count_c = 0
 win_count_n = 0
